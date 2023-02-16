@@ -57,7 +57,7 @@ Curious developer open to work with all kind of backend and frontend technologie
 
 
 **🔥 My Github stats**
-<div>
+<div text-align="center">
     <img width="50%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=medinamarquezp&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&title_color=273849&icon_color=273849&text_color=41b883" />
     <img width="35%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinamarquezp&layout=compact&hide_border=true&title_color=273849&text_color=41b883&theme=transparent" />
 </div>
