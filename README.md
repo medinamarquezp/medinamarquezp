@@ -2,7 +2,7 @@
 Curious developer open to work with all kind of backend and frontend technologies with special interest in **JS/TS ecosystem**.&nbsp;&nbsp;
 
 
-**🤓 About**
+### 🤓 About
 - 🤖 I'm currently working as a **senior software engineer** at <a href="https://www.linkedin.com/company/sincrolab" alt="Sincrolab on Linkedin" target="_blank">Sincrolab</a>.
 - 🤦 I'm also working in a couple of **side projects** in my free time.
 - ⛓️ I'm currently learning about **blockchain development** specially focused on **Solidity smart contracts**.
@@ -10,7 +10,7 @@ Curious developer open to work with all kind of backend and frontend technologie
 - 🔌 You can find me and connect with me on <a href="https://es.linkedin.com/in/medinamarquezp" alt="My Linkedin profile" target="_blank">Linkedin</a> and <a href="https://twitter.com/medinamarquezp" alt="My Twitter profile" target="_blank">Twitter</a>.&nbsp;&nbsp;
 
 
-**🔨 My main stack**
+### 🔨 My main stack
 <div>
   <img width="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -31,7 +31,7 @@ Curious developer open to work with all kind of backend and frontend technologie
 </div>&nbsp;&nbsp;
                
                     
-**🙋 I'm also happy to work with**
+### 🙋 I'm also happy to work with
 <div>
   <img width="40" alt="Deno" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
   <img width="40" alt="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
@@ -56,7 +56,7 @@ Curious developer open to work with all kind of backend and frontend technologie
 </div>&nbsp;&nbsp;
 
 
-**🔥 My Github stats**
+### 🔥 My Github stats
 <div text-align="center">
     <img width="55%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=medinamarquezp&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&title_color=273849&icon_color=273849&text_color=41b883" />
     <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinamarquezp&layout=compact&hide_border=true&title_color=273849&text_color=41b883&theme=transparent" />
