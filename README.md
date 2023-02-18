@@ -58,9 +58,9 @@ Curious developer open to work with all kind of backend and frontend technologie
 
 **🔥 My Github stats**
 <div text-align="center">
-    <img width="50%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=medinamarquezp&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&title_color=273849&icon_color=273849&text_color=41b883" />
-    <img width="35%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinamarquezp&layout=compact&hide_border=true&title_color=273849&text_color=41b883&theme=transparent" />
+    <img width="55%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=medinamarquezp&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&title_color=273849&icon_color=273849&text_color=41b883" />
+    <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinamarquezp&layout=compact&hide_border=true&title_color=273849&text_color=41b883&theme=transparent" />
 </div>
 <div>
-    <img width="85%" alt="Streak and contributions" src="https://github-readme-streak-stats.herokuapp.com?user=medinamarquezp&theme=vue&hide_border=true&background=EB545400&stroke=EB545400" />
+    <img width="95%" alt="Streak and contributions" src="https://github-readme-streak-stats.herokuapp.com?user=medinamarquezp&theme=vue&hide_border=true&background=EB545400&stroke=EB545400" />
 </div>
