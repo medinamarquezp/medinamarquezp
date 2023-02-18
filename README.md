@@ -1,5 +1,5 @@
 ### 🖖 Hola! I'm Pedro
-Curious developer open to work with all kind of backend and frontend technologies with special interest in **JS/TS ecosystem**.&nbsp;&nbsp;
+Curious developer open to work with all kind of **backend and frontend** technologies with special interest in **JS/TS ecosystem**.&nbsp;&nbsp;
 
 
 ### 🤓 About
@@ -7,8 +7,7 @@ Curious developer open to work with all kind of backend and frontend technologie
 - 🤦 I'm also working in a couple of **side projects** in my free time.
 - ⛓️ I'm currently learning about **blockchain development** specially focused on **Solidity smart contracts**.
 - 📚 I'm currently reading <a href="https://www.oreilly.com/library/view/distributed-systems-with/9781492077282/" alt="Distributed systems with NodeJS book" target="_blank">Distributed systems with NodeJS</a>.
-- 🔌 You can find me and connect with me on <a href="https://es.linkedin.com/in/medinamarquezp" alt="My Linkedin profile" target="_blank">Linkedin</a> and <a href="https://twitter.com/medinamarquezp" alt="My Twitter profile" target="_blank">Twitter</a>.&nbsp;&nbsp;
-
+- 🔌 You can find me and connect with me on <a href="https://es.linkedin.com/in/medinamarquezp" alt="My Linkedin profile" target="_blank">Linkedin</a> and <a href="https://twitter.com/medinamarquezp" alt="My Twitter profile" target="_blank">Twitter</a>.
 
 ### 🔨 My main stack
 <div>
