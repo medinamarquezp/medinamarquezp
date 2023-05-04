@@ -51,7 +51,6 @@ Curious developer open to work with all kind of **backend and frontend** technol
   <img width="40" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="40" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img width="40" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width="40" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
 
 
