@@ -3,9 +3,9 @@ Curious developer open to work with all kind of technologies.</br>
 
 
 ### 🤓 About
-- 🤖 I'm currently working as a **senior software engineer** at <a href="https://www.linkedin.com/company/sincrolab" alt="Sincrolab on Linkedin" target="_blank">Sincrolab</a>.
+- 👨🏻‍💻 I'm currently working as a **senior software engineer** at <a href="https://www.linkedin.com/company/gptadvisor" alt="GPTadvisor" target="_blank">GPTadvisor</a>.
 - 🤦 I'm also working in a couple of **side projects** in my free time.
-- ⛓️ I'm currently learning about **blockchain development** specially focused on **Solidity smart contracts**.
+- 🤖 I am currently learning about **GPT models, LLMs** and all related stuff.
 - 🔌 You can find me and connect with me on <a href="https://es.linkedin.com/in/medinamarquezp" alt="My Linkedin profile" target="_blank">Linkedin</a> and <a href="https://twitter.com/medinamarquezp" alt="My Twitter profile" target="_blank">Twitter</a>.</br>
 
 ### 🔨 My main stack
