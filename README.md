@@ -51,10 +51,3 @@ Curious developer open to work with all kind of technologies.</br>
   <img width="40" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img width="40" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
-
-
-### 🔥 My Github stats
-<div text-align="center">
-    <img width="55%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=medinamarquezp&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&title_color=273849&icon_color=273849&text_color=41b883" />
-    <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinamarquezp&layout=compact&hide_border=true&title_color=273849&text_color=41b883&theme=transparent" />
-</div>
